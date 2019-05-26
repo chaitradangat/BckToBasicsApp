@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicMvcApp", "ClassicMvcApp\ClassicMvcApp.csproj", "{1EDACFE1-0668-44A8-9541-94CF6CC9CCAF}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDACFE1-0668-44A8-9541-94CF6CC9CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDACFE1-0668-44A8-9541-94CF6CC9CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDACFE1-0668-44A8-9541-94CF6CC9CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDACFE1-0668-44A8-9541-94CF6CC9CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
